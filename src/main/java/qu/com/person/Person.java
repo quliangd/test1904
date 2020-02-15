@@ -7,4 +7,5 @@ public class Person {
     private int code;
     private String phonel;
     private String adrress;
+
 }
